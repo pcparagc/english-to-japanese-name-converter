@@ -1,1 +1,1 @@
-This program convert your name to Japanese-english. 
+This program converts your name to Japanese-english. 
